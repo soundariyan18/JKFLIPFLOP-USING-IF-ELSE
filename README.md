@@ -1,4 +1,4 @@
-# JKFLIPFLOP-USING-IF-ELSE
+# EX : 07 JKFLIPFLOP-USING-IF-ELSE
 
 **AIM:** 
 
@@ -46,14 +46,11 @@ step-5 Give inputs in the waveform table .
 
 step-6 Run the program.
 
-
+```
+Developed by:M.N.SOUNDARIYAN
+RegisterNumber:212222230146
+```
 **PROGRAM**
-```
-/* Program for flipflops and verify its truth table in quartus using Verilog programming.
-Developed by:N.Navya Sree
-RegisterNumber:212223040138
-*/
-```
 ```
 module JKFLIPFLOP(q, qb,j,k,clock,reset);
     input j,k,clock,reset;
